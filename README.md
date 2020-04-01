@@ -30,8 +30,10 @@
  ### 3. GameScene
 
    #### 주요기능
-   
-   - asdsad
+  
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/62490237/78148703-24284700-7470-11ea-875b-b219a9bb3d17.gif)  
+
+   - ObjectPooling을 이용한 구름 랜덤 배치 및 재사용
    - asdsadsad
    - asdsadsadas
    
