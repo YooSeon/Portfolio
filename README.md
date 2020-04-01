@@ -55,6 +55,14 @@
 
  ### 4. GamePlay
  
+
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/62490237/78150578-70748680-7472-11ea-8f0f-f242799bcc4e.gif)
+
+
+
+
+# THANK YOU!!!
+ 
  
    
 
