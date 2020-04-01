@@ -17,9 +17,9 @@
 
    #### 주요기능
    
+![ezgif com-video-to-gif (1)](https://user-images.githubusercontent.com/62490237/78144366-78302d00-746a-11ea-81f7-551c553af0f8.gif)
+      
    - asdsad
-   
-   ![ezgif com-video-to-gif (1)](https://user-images.githubusercontent.com/62490237/78144366-78302d00-746a-11ea-81f7-551c553af0f8.gif)
    - asdsadsad
    - asdsadsadas
    
