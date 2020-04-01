@@ -11,6 +11,8 @@
    
    
 
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/62490237/78142537-ffc86c80-7467-11ea-8cc7-82a89cd3ce7c.gif)
+
 ### 2. SelectScene
 
    #### 주요기능
