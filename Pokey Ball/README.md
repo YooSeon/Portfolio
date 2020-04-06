@@ -27,7 +27,7 @@
 ### 3. Block   
      
   * #### Tag를 이용한 Block 구분하여 해당 동작 구현
-    * ##### NonBlock : Player가 매달릴 수 있는 Block
+  * ##### NonBlock : Player가 매달릴 수 있는 Block
     
 ![N](https://user-images.githubusercontent.com/62490237/78565007-38958680-7858-11ea-9de8-91411bd56e4b.gif)
 
@@ -54,7 +54,7 @@
 ### 5. Object   
    
   * ##### Coin : Rigidbody의 isTriger를 이용한 충돌시 코인 획득 구현
-  * ##### Targrt : Raycast를 이용, 충돌 좌표 확인하여 센터 확인하여 Player의 상태 변경 및 점수 획득 구현
+  * ##### Target : Raycast를 이용, 충돌 좌표 확인하여 센터 확인하여 Player의 상태 변경 및 점수 획득 구현
 
 ### 6. UI   
    
