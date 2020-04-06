@@ -66,7 +66,7 @@
 ### 7. GamePlay
    
    
-### Youtude : https://www.youtube.com/watch?v=Uzjq8Xom9EQ&feature=youtu.be
+### [Youtude Clieck](https://youtu.be/cr5uJMM4LxA)
 
 # THANK YOU!!!!
  
