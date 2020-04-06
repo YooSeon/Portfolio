@@ -3,8 +3,16 @@
 ![ezgif com-video-to-gif](https://user-images.githubusercontent.com/62490237/78562054-b5723180-7853-11ea-89f8-5446fbcd5137.gif)
 
 * ### Player
+
+![2](https://user-images.githubusercontent.com/62490237/78562371-33363d00-7854-11ea-93bb-656c30aeda5d.gif)
+
    * #### Swipe 강도 에 따른 Transform을 이용한 Shakeing 구현
+   
+![3](https://user-images.githubusercontent.com/62490237/78562933-21a16500-7855-11ea-81e8-0ce22ea4fdf7.gif)   
+   
    * #### NomalMode 및 OverPower 모드에 따른 최대 점프 높이 및 TrailRenderer을 이용한 색상 변화 구현
+   
+   
    * #### Jump 중 화면 터치 Raycast를 이용한 해당 Block Tag 및 좌표값 구하여  Particle 및 HitEffect 생성  
             
 * ### Damper   
