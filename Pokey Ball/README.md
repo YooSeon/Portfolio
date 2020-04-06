@@ -4,7 +4,7 @@
 
 * ### Player
 
-   * #### Swipe 강도 에 따른 Transform을 이용한 Shakeing 구현
+* #### Swipe 강도 에 따른 Transform을 이용한 Shakeing 구현
    
 ![2](https://user-images.githubusercontent.com/62490237/78562371-33363d00-7854-11ea-93bb-656c30aeda5d.gif)
       
