@@ -44,8 +44,11 @@
   
 ### 4. Camera   
    
-  * #### Camera Transform 및 FixedUpdate,Vector.Lerp를 이용한 swipe 강도에 따른 점점 멀어지고 다시 돌아오는 Cam 구현
+  * #### Camera Transform 및 FixedUpdate,Vector.Lerp를 이용한 swipe 강도에 따른 점점 멀어지고 다시 돌아오는 Cam 구현  
   * #### Player의 상태에 따라 멀어지는 최대값 변하도록 구현
+  
+![6](https://user-images.githubusercontent.com/62490237/78566391-1d2b7b00-785a-11ea-9769-fbf7ec16c3ba.gif)  
+  
   * #### FollowCam을 활용한 Jump 할 경우 Player 추적 구현
   
 ### 5. Object   
@@ -57,6 +60,8 @@
    
   * #### Coin,Score : Coroutine 활용하여 점수 획득 시 카운팅되며 점수 증가 및 alpha를 이용하여 점점 사라지도록 구현
   * #### Distance : 골인 지점과 Player의 Distance를 구해 Filled를 이용하여 stage의 진행 상태 구현
+  
+  ![ezgif com-video-to-gif](https://user-images.githubusercontent.com/62490237/78566614-75627d00-785a-11ea-8631-6cfe9d7cd848.gif)
 
 ### 7. GamePlay
    
