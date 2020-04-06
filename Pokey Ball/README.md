@@ -2,7 +2,7 @@
 
 ![ezgif com-video-to-gif](https://user-images.githubusercontent.com/62490237/78562054-b5723180-7853-11ea-89f8-5446fbcd5137.gif)
 
-- ### Player
+### 1. Player
 
 * #### Swipe 강도 에 따른 Transform을 이용한 Shakeing 구현
    
@@ -14,12 +14,12 @@
 
    * #### Jump 중 화면 터치 Raycast를 이용한 해당 Block Tag 및 좌표값 구하여  Particle 및 HitEffect 생성  
             
-- ### Damper   
+### 2. Damper   
    
   * #### 화면 터치 좌표값을 이용한 Swipe 강도에 따른 DmaperPower 증가 및 Angle 변화 구현
   * #### HingeJoint를 이용한 물리력 전달 구현
    
-- ### Block   
+### 3. Block   
      
   * #### Tag를 이용한 Block 구분하여 해당 동작 구현
     * ##### NonBlock : Player가 매달릴 수 있는 Block
@@ -27,23 +27,23 @@
     * ##### NonBlock : 파괴 및 매달릴 수 없는 Block
     * ##### GameOverBlock : SceneManager를 통한 GameOver 구현
   
-- ### Camera   
+### 4. Camera   
    
   * #### Camera Transform 및 FixedUpdate,Vector.Lerp를 이용한 swipe 강도에 따른 점점 멀어지고 다시 돌아오는 Cam 구현
   * #### Player의 상태에 따라 멀어지는 최대값 변하도록 구현
   * #### FollowCam을 활용한 Jump 할 경우 Player 추적 구현
   
-- ### Object   
+### 5. Object   
    
   * ##### Coin : Rigidbody의 isTriger를 이용한 충돌시 코인 획득 구현
   * ##### Targrt : Raycast를 이용, 충돌 좌표 확인하여 센터 확인하여 Player의 상태 변경 및 점수 획득 구현
 
-- ### UI   
+### 6. UI   
    
   * #### Coin,Score : Coroutine 활용하여 점수 획득 시 카운팅되며 점수 증가 및 alpha를 이용하여 점점 사라지도록 구현
   * #### Distance : 골인 지점과 Player의 Distance를 구해 Filled를 이용하여 stage의 진행 상태 구현
 
-- ### GamePlay
+### 7. GamePlay
    
    
 ### Youtude : https://www.youtube.com/watch?v=Uzjq8Xom9EQ&feature=youtu.be
