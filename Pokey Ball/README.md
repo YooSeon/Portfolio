@@ -13,19 +13,34 @@
 ![3](https://user-images.githubusercontent.com/62490237/78562933-21a16500-7855-11ea-81e8-0ce22ea4fdf7.gif)   
 
    * #### Jump 중 화면 터치 Raycast를 이용한 해당 Block Tag 및 좌표값 구하여  Particle 및 HitEffect 생성  
+   
+![4](https://user-images.githubusercontent.com/62490237/78563943-b22c7500-7856-11ea-9e95-87158ceb7dd1.gif)
+
             
 ### 2. Damper   
-   
-  * #### 화면 터치 좌표값을 이용한 Swipe 강도에 따른 DmaperPower 증가 및 Angle 변화 구현
+
+![5](https://user-images.githubusercontent.com/62490237/78564245-19e2c000-7857-11ea-9a22-dc1e3cc3f5cf.gif)
+
+  * #### 화면 터치 좌표값을 이용한 Swipe 강도에 따른 DmaperPower 증가 및 Angle 변화 구현  
   * #### HingeJoint를 이용한 물리력 전달 구현
    
 ### 3. Block   
      
   * #### Tag를 이용한 Block 구분하여 해당 동작 구현
     * ##### NonBlock : Player가 매달릴 수 있는 Block
-    * ##### DestoryBlock : Player가 파괴할 수 있으며 파괴시 Instantiate 및 Rigidbody를 이용한 파편 구현
-    * ##### NonBlock : 파괴 및 매달릴 수 없는 Block
-    * ##### GameOverBlock : SceneManager를 통한 GameOver 구현
+    
+![N](https://user-images.githubusercontent.com/62490237/78565007-38958680-7858-11ea-9de8-91411bd56e4b.gif)
+
+   * ##### DestoryBlock : Player가 파괴할 수 있으며 파괴시 Instantiate 및 Rigidbody를 이용한 파편 구현
+    
+![D](https://user-images.githubusercontent.com/62490237/78565077-582caf00-7858-11ea-8364-f9d6a93934a9.gif)    
+    
+   * ##### NonBlock : 파괴 및 매달릴 수 없는 Block
+    
+![B](https://user-images.githubusercontent.com/62490237/78565044-4ba85680-7858-11ea-986c-7dbda3ce06c6.gif)
+
+   * ##### GameOverBlock : SceneManager를 통한 GameOver 구현
+  
   
 ### 4. Camera   
    
