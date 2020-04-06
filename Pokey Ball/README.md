@@ -1,5 +1,7 @@
 # Pokey Ball source code
 
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/62490237/78562054-b5723180-7853-11ea-89f8-5446fbcd5137.gif)
+
 * ### Player
    * #### Swipe 강도 에 따른 Transform을 이용한 Shakeing 구현
    * #### NomalMode 및 OverPower 모드에 따른 최대 점프 높이 및 TrailRenderer을 이용한 색상 변화 구현
